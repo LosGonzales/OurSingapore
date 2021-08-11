@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My NDP Songs</string>
+
+    <string-array name="spin">
+        <item>All Years</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+    </string-array>
+</resources>
